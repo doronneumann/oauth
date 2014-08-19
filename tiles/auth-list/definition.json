@@ -1,0 +1,20 @@
+{
+    "sampleData" : {
+        "title" : "auth-list",
+        "contents" : [ {
+            "text" : "Initial text to be replaced"
+        } ],
+        "config" : {
+               "listStyle" : "contentList"
+        }
+    },
+	"displayName" : "auth-list",
+    "name" : "auth-list",
+    "description" : "auth-list",
+    "style" : "LIST",
+    "icons" : {
+        "16" : "{{{host}}}/images/extension-16.png",
+        "48" : "{{{host}}}/images/extension-48.png",
+        "128" : "{{{host}}}/images/extension-128.png"
+    }
+}

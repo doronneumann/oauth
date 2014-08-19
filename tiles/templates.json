@@ -1,0 +1,10 @@
+{
+    "default": {
+        "name": "defaultTemplate",
+        "displayName": "Auth Example - Description",
+        "description": "Auth Example - Description",
+        "tiles": [
+            "auth-list"
+        ]
+    }
+}
